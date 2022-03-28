@@ -1,6 +1,6 @@
 # venicio
 
-![front-end](https://github-readme-stats.vercel.app/api?username={venicio-marinho}&theme=blue-green)
+![front-end](https://github-readme-stats.vercel.app/api?username={venicio-marinho/venicio-dev}&theme=blue-green)
 
 ### social
 
