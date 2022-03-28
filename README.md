@@ -1,7 +1,7 @@
 # venicio
 
 ![Anurag GitHub stats](https://github-readme-stats.vercel.app/api?username=venicio-marinho)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/ ?username=venicio-marinho&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=venicio-marinho&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### social
 
